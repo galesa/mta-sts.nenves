@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
-mx: mail.nenv.es
+mode: none
+mx: nenv.correoseguro.dinaserver.com
 max_age: 2592000
